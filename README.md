@@ -68,7 +68,7 @@
 
 ***These encoding and encryption techniques serve various purposes in computing, from fundamental data representation to securing communication and ensuring data privacy. Their usage depends on specific requirements and the nature of the data being handled.***
 
-In summary:
+*In summary:*
 
 - **ASCII:** A character encoding standard using 7 or 8 bits to represent characters.
 
@@ -91,3 +91,5 @@ In summary:
 - **3DES** A symmetric encryption algorithm that applies the DES algorithm three times for increased security compared to the original DES.
 
 ***Each of these plays a crucial role in different areas of security and data encoding, and their usage depends on specific requirements and use cases.***
+
+![image](https://github.com/isPique/Data-Converter/assets/139041426/3fee119c-6cb7-483e-b6a5-d390ebde302f)
