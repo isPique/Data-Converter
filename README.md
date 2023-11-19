@@ -1,3 +1,9 @@
+# INSTALLATION
+
+```console
+pip install -r requirements.txt
+```
+
 # Supported Encoding/Decoding - Encryption/Decryption Options:
 
 * **Binary** to **ASCII**
